@@ -1,4 +1,4 @@
-# driftq-clients-js
+# DriftQ-Clients-JS
 
 TypeScript/Node SDK for **DriftQ** — produce and consume messages, and call admin APIs.
 
